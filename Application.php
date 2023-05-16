@@ -1,10 +1,10 @@
 <?php
 
-namespace app\core;
+namespace Etronic\PhpMvcCore;
 
-use app\core\Controller;
-use app\core\db\DbModel;
-use app\core\db\Database;
+use Etronic\PhpMvcCore\Controller;
+use Etronic\PhpMvcCore\db\DbModel;
+use Etronic\PhpMvcCore\db\Database;
 
 class Application
 {

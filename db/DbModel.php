@@ -1,9 +1,9 @@
 <?php 
 
-namespace app\core\db;
+namespace Etronic\PhpMvcCore\db;
 
-use app\core\Model;
-use app\core\Application;
+use Etronic\PhpMvcCore\Model;
+use Etronic\PhpMvcCore\Application;
 
 abstract class DbModel extends Model{
 

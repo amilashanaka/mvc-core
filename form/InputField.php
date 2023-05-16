@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core\form;
+namespace Etronic\PhpMvcCore\form;
 
-use app\core\Model;
+use Etronic\PhpMvcCore\Model;
 
 class InputField extends BaseField
 {
