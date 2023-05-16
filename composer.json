@@ -1,0 +1,15 @@
+{
+    "name": "etronic/php-mvc-core",
+    "autoload": {
+        "psr-4": {
+            "Etronic\\PhpMvcCore\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "amilashanaka",
+            "email": "dsa.amilashanaka@gmail.com"
+        }
+    ],
+    "require": {}
+}
