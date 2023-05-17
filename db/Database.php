@@ -1,8 +1,8 @@
 <?php
 
-namespace Etronic\PhpMvcCore\db;
+namespace etronic\Core\db;
 
-use Etronic\PhpMvcCore\Application;
+use etronic\Core\Application;
 
 class Database
 {

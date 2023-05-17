@@ -1,5 +1,5 @@
 <?php 
-namespace Etronic\PhpMvcCore\exception;
+namespace etronic\Core\exception;
 class NotFoundException extends \Exception
 {
 

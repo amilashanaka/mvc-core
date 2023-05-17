@@ -1,8 +1,8 @@
 <?php
 
-namespace Etronic\PhpMvcCore;
+namespace etronic\Core;
 
-use Etronic\PhpMvcCore\exception\NotFoundException;
+use etronic\Core\exception\NotFoundException;
 
 class Router
 {

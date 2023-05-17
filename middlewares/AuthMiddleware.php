@@ -1,9 +1,9 @@
 <?php 
 
-namespace Etronic\PhpMvcCore\middlewares;
+namespace etronic\Core\middlewares;
 
-use Etronic\PhpMvcCore\Application;
-use Etronic\PhpMvcCore\exception\ForbiddenException;
+use etronic\Core\Application;
+use etronic\Core\exception\ForbiddenException;
 
 class AuthMiddleware extends BaseMiddleware
 {

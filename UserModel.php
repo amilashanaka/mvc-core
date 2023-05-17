@@ -1,9 +1,9 @@
 <?php
 
 
-namespace Etronic\PhpMvcCore;
+namespace etronic\Core;
 
-use Etronic\PhpMvcCore\db\DbModel;
+use etronic\Core\db\DbModel;
 
 abstract class UserModel extends DbModel{
 

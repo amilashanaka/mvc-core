@@ -1,6 +1,6 @@
 <?php
 
-namespace Etronic\PhpMvcCore;
+namespace etronic\Core;
 
 class Response{
 

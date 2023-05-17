@@ -2,7 +2,7 @@
     "name": "etronic/php-mvc-core",
     "autoload": {
         "psr-4": {
-            "Etronic\\PhpMvcCore\\": "src/"
+            "etronic\\Core\\": "src/"
         }
     },
     "authors": [

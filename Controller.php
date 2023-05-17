@@ -1,7 +1,7 @@
 <?php
 
-namespace Etronic\PhpMvcCore;
-use  Etronic\PhpMvcCore\middlewares\BaseMiddleware;
+namespace etronic\Core;
+use  etronic\Core\middlewares\BaseMiddleware;
 
 class Controller{
 
