@@ -1,7 +1,7 @@
 <?php
 
 
-namespace etronic\core;
+namespace etronic\phpmvc;
 
 
 

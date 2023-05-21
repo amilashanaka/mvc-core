@@ -1,9 +1,9 @@
 <?php
 
-namespace etronic\core;
+namespace etronic\phpmvc;
 
-use etronic\core\Controller;
-use etronic\core\db\Database;
+use etronic\phpmvc\Controller;
+use etronic\phpmvc\db\Database;
 
 class Application
 {

@@ -1,2 +1,2 @@
-# mvc-core
- php mvc core 
+# mvc-phpmvc
+ php mvc phpmvc 

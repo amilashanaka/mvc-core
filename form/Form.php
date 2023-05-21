@@ -1,8 +1,8 @@
 <?php
 
-namespace etronic\core\form;
-use etronic\core\Model;
-use etronic\core\form\InputField;
+namespace etronic\phpmvc\form;
+use etronic\phpmvc\Model;
+use etronic\phpmvc\form\InputField;
 
 class Form{
 

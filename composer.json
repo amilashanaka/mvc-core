@@ -1,8 +1,8 @@
 {
-    "name": "etronic/php-mvc-core",
+    "name": "etronic/php-mvc-phpmvc",
     "autoload": {
         "psr-4": {
-            "etronic\\core\\": "src/"
+            "etronic\\phpmvc\\": "src/"
         }
     },
     "authors": [

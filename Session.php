@@ -1,6 +1,6 @@
 <?php
 
-namespace etronic\core;
+namespace etronic\phpmvc;
 class Session
 {
     protected const FLASH_KEY = 'flash_messages';
