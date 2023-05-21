@@ -1,7 +1,7 @@
 <?php
 
 
-namespace etronic\Core;
+namespace etronic\core;
 
 
 

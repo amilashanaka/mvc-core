@@ -1,10 +1,9 @@
 <?php
 
-namespace etronic\Core;
+namespace etronic\core;
 
-use etronic\Core\Controller;
-use etronic\Core\db\DbModel;
-use etronic\Core\db\Database;
+use etronic\core\Controller;
+use etronic\core\db\Database;
 
 class Application
 {

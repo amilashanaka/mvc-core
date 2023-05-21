@@ -1,8 +1,8 @@
 <?php
 
-namespace etronic\Core\db;
+namespace etronic\core\db;
 
-use etronic\Core\Application;
+use etronic\core\Application;
 
 class Database
 {

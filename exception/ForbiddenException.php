@@ -1,6 +1,6 @@
 <?php 
 
-namespace etronic\Core\exception;
+namespace etronic\core\exception;
 
 
 class ForbiddenException extends \Exception

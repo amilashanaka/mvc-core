@@ -1,6 +1,6 @@
 <?php 
 
-namespace etronic\Core\form;
+namespace etronic\core\form;
 
 class TextAreaField extends BaseField
 {

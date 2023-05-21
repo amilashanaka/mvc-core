@@ -1,6 +1,6 @@
 <?php
 
-namespace etronic\Core\middlewares;
+namespace etronic\core\middlewares;
 
 abstract class BaseMiddleware
 {
