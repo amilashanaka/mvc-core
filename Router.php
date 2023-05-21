@@ -4,6 +4,7 @@ namespace etronic\phpmvc;
 
 use etronic\phpmvc\exception\NotFoundException;
 
+
 class Router
 {
     private Request $request;

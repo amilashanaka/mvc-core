@@ -6,9 +6,6 @@ use etronic\phpmvc\Application;
 
 class Database
 {
-
-
-
     public \PDO $pdo;
 
 
